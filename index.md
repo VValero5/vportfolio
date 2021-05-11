@@ -1,11 +1,12 @@
-## Portfolio
+## Violet's Portfolio
 
 ---
 
-### Category Name 1 
+### My Creative Works 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 - Graffiti Art(/sample_page)
+
+<img src="https://user-images.githubusercontent.com/83613380/117747241-9f574300-b1c2-11eb-9e19-65f1a0e7862e.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -16,6 +17,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2
 
