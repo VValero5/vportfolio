@@ -4,13 +4,13 @@
 
 ### My Creative Works 
 
-[Project 1 - Graffiti Art(/sample_page)
+Project 1 - Graffiti Art
 
 <img src="https://user-images.githubusercontent.com/83613380/117747241-9f574300-b1c2-11eb-9e19-65f1a0e7862e.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Project 2 - Woman in Galaxy(/pdf/sample_presentation.pdf)
+<img src="https://user-images.githubusercontent.com/83613380/117747539-37552c80-b1c3-11eb-81b4-90b2c2e883a7.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
